@@ -1,0 +1,4 @@
+Installations Required :
+1- django
+2. crispy forms django
+3. pillow
